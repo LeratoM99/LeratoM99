@@ -17,7 +17,7 @@
 
 ## 📂 Projects
 - Greek Yogurt Landing Page
-
+- Muffins by Thando (Bakery Website)
 ---
 
 ## 📫 Connect With Me
